@@ -11,4 +11,4 @@
 
 ## 🛠️ 專案簡介
 
-本專案為 GitHub 基礎實作作業，包含個人 HTML/CSS 名片網頁、Git 規範範本以及 GitHub Pages 靜態網站部署。
+本專案為 GitHub 基礎實作作業，包含個人 HTML/CSS 名片網頁、Git 規範範本以及 GitHub Pages 靜態網站部署。()
